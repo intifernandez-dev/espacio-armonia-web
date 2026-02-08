@@ -79,10 +79,9 @@ El objetivo principal fue **aplicar los conocimientos básicos de desarrollo web
 
 ---
 
-## ⚠️ Aclaración
+## Nota
 
-Este proyecto forma parte de mis **primeros pasos en desarrollo web**.  
-No representa mi nivel actual, pero lo conservo como evidencia de progreso y aprendizaje.
+Este proyecto forma parte de mis **primeros pasos en desarrollo web**.
 
 ---
 
