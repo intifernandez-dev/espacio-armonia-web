@@ -24,28 +24,32 @@ Es un sitio web estático orientado a un espacio de bienestar / spa ficticio lla
 ---
 
 ## 📁 Estructura del proyecto
+## 📁 Estructura del proyecto
+
+```
 /
 ├── index.html
 ├── generic.html
 ├── elements.html
 ├── contacto.html
 ├── images/
-│ └── (imágenes del sitio)
+│   └── (imágenes del sitio)
 └── assets/
-├── css/
-│ ├── main.css
-│ ├── gen-respon.css
-│ ├── contacto-footer.css
-│ └── font-awesome.min.css
-├── js/
-│ ├── main.js
-│ ├── jquery.min.js
-│ ├── modal.js
-│ ├── email.js
-│ ├── skel.min.js
-│ └── util.js
-└── fonts/
-└── fontawesome-webfont
+    ├── css/
+    │   ├── main.css
+    │   ├── gen-respon.css
+    │   ├── contacto-footer.css
+    │   └── font-awesome.min.css
+    ├── js/
+    │   ├── main.js
+    │   ├── jquery.min.js
+    │   ├── modal.js
+    │   ├── email.js
+    │   ├── skel.min.js
+    │   └── util.js
+    └── fonts/
+        └── fontawesome-webfont
+```
 
 
 
