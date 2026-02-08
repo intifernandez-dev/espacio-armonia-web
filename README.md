@@ -50,6 +50,17 @@ Es un sitio web estático orientado a un espacio de bienestar / spa ficticio lla
         └── fontawesome-webfont
 ```
 
+## 📸 Capturas del sitio
+
+### Página principal
+![Página principal](screenshots/img_principal.png)
+
+### Página de servicios
+![Página de servicios](screenshots/img_servicios.png)
+
+### Página de contacto
+![Página de contacto](screenshots/img_contactanos.png)
+
 
 
 ---
