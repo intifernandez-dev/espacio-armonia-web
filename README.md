@@ -24,7 +24,6 @@ Es un sitio web estático orientado a un espacio de bienestar / spa ficticio lla
 ---
 
 ## 📁 Estructura del proyecto
-## 📁 Estructura del proyecto
 
 ```
 /
@@ -90,4 +89,5 @@ Este proyecto forma parte de mis **primeros pasos en desarrollo web**.
 **Inti Fernandez**  
 📍 Argentina  
 🔗 GitHub: https://github.com/intifernandez-dev
+    Email: intifernandez.dev@gmail.com
 
