@@ -24,28 +24,42 @@ Es un sitio web estático orientado a un espacio de bienestar / spa ficticio lla
 ---
 
 ## 📁 Estructura del proyecto
+
+```
 /
 ├── index.html
 ├── generic.html
 ├── elements.html
 ├── contacto.html
 ├── images/
-│ └── (imágenes del sitio)
+│   └── (imágenes del sitio)
 └── assets/
-├── css/
-│ ├── main.css
-│ ├── gen-respon.css
-│ ├── contacto-footer.css
-│ └── font-awesome.min.css
-├── js/
-│ ├── main.js
-│ ├── jquery.min.js
-│ ├── modal.js
-│ ├── email.js
-│ ├── skel.min.js
-│ └── util.js
-└── fonts/
-└── fontawesome-webfont
+    ├── css/
+    │   ├── main.css
+    │   ├── gen-respon.css
+    │   ├── contacto-footer.css
+    │   └── font-awesome.min.css
+    ├── js/
+    │   ├── main.js
+    │   ├── jquery.min.js
+    │   ├── modal.js
+    │   ├── email.js
+    │   ├── skel.min.js
+    │   └── util.js
+    └── fonts/
+        └── fontawesome-webfont
+```
+
+## 📸 Capturas del sitio
+
+### Página principal
+![Página principal](screenshots/img_principal.png)
+
+### Página de servicios
+![Página de servicios](screenshots/img_servicios.png)
+
+### Página de contacto
+![Página de contacto](screenshots/img_contactanos.png)
 
 
 
@@ -75,10 +89,9 @@ El objetivo principal fue **aplicar los conocimientos básicos de desarrollo web
 
 ---
 
-## ⚠️ Aclaración
+## Nota
 
-Este proyecto forma parte de mis **primeros pasos en desarrollo web**.  
-No representa mi nivel actual, pero lo conservo como evidencia de progreso y aprendizaje.
+Este proyecto forma parte de mis **primeros pasos en desarrollo web**.
 
 ---
 
@@ -87,4 +100,5 @@ No representa mi nivel actual, pero lo conservo como evidencia de progreso y apr
 **Inti Fernandez**  
 📍 Argentina  
 🔗 GitHub: https://github.com/intifernandez-dev
+    Email: intifernandez.dev@gmail.com
 
