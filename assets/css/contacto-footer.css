@@ -1,0 +1,5 @@
+#main.wrapper {
+  min-height: 100vh; /* Asegura que el contenido ocupe al menos toda la altura de la pantalla */
+  display: flex;
+  flex-direction: column;
+}

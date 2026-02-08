@@ -1,0 +1,99 @@
+/* Estilos para la galería de imágenes en dispositivos móviles */
+@media (max-width: 768px) {
+    /* Aseguramos que la galería de imágenes se adapte correctamente */
+    .galleryhielo {
+        display: grid;
+        grid-template-columns: 1fr 1fr; /* Dos columnas en pantallas pequeñas */
+        gap: 15px; /* Espacio entre las imágenes */
+        margin-top: 20px; /* Margen superior para separar la galería de otros elementos */
+
+    }
+
+    .galleryhielo .image.fit {
+        width: 87%;
+        height: auto;
+
+    }
+
+    /* Hacemos que las imágenes se ajusten bien en dispositivos pequeños */
+    .galleryhielo img {
+        width: 100%;
+        height: auto;
+        border-radius: 8px; /* Opcional: puedes agregar bordes redondeados */
+            
+    }
+
+
+    /* Aseguramos que las imágenes no se deformen y se adapten bien */
+    .galleryhielo a {
+        display: block;
+        overflow: hidden;
+        border-radius: 8px; /* Bordes redondeados opcionales */
+        
+    }
+
+    /* Ajustamos los márgenes y el diseño de las imágenes cuando se ve en un celular */
+    .galleryhielo div {
+        margin-bottom: 20px; /* Añadir espacio debajo de las imágenes */
+    }
+}
+
+      /* Para hacer el texto de la cabecera más pequeño en dispositivos pequeños */
+    #three header h2 {
+        font-size: 1.5rem; /* Tamaño de texto reducido para pantallas pequeñas */
+        text-align: center;
+    }
+
+    /* Ajustamos solo el footer que contiene el mapa */
+    footer#footer .container {
+        display: flex;
+        flex-direction: column; /* Colocamos los elementos uno debajo del otro */
+        align-items: center;
+        justify-content: center;
+        padding: 10px;
+    }
+
+    footer#footer .cuadrado {
+        width: 100%;
+        margin-bottom: 20px;
+        text-align: center;
+        padding: 20px;
+    }
+
+    /* Aseguramos que el mapa se vea bien en pantallas pequeñas */
+    .mapa iframe {
+        width: 100%;    /* El mapa ocupa todo el ancho */
+        height: 200px;  /* Mapa más pequeño en dispositivos móviles */
+        border: 0;
+    }
+}
+
+/* Estilo para el mapa en pantallas de escritorio */
+.mapa iframe {
+    width: 100%;    /* El mapa ocupará todo el ancho disponible */
+    height: 400px;  /* Ajustamos la altura para que el mapa sea alargado (panorámico) */
+    border: 0;
+}
+
+.custom-footer {
+    padding: 20px 0; /* Puedes ajustar este valor para hacerlo más largo o más corto */
+    background-color: #f8f8f8; /* Ajusta el color de fondo si es necesario */
+}
+
+.custom-footer .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.custom-footer .icons {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.custom-footer .copyright {
+    text-align: center;
+    font-size: 14px;
+}
+
