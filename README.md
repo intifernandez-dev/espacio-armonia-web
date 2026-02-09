@@ -95,10 +95,9 @@ Este proyecto forma parte de mis **primeros pasos en desarrollo web**.
 
 ---
 
-## 👤 Autor
+## 👨‍💻 Autor
 
-**Inti Fernandez**  
-📍 Argentina  
-🔗 GitHub: https://github.com/intifernandez-dev
-    Email: intifernandez.dev@gmail.com
+**Inti Fernandez**
 
+- GitHub: (https://github.com/intifernandez-dev)
+- Email: intifernandez.dev@gmail.com
